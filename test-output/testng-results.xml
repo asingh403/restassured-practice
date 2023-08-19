@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-17T22:54:58 IST" name="Default suite" finished-at="2023-08-17T22:55:03 IST" duration-ms="5005">
+  <suite started-at="2023-08-19T22:06:38 IST" name="Default suite" finished-at="2023-08-19T22:06:43 IST" duration-ms="5736">
     <groups>
     </groups>
-    <test started-at="2023-08-17T22:54:58 IST" name="Default test" finished-at="2023-08-17T22:55:03 IST" duration-ms="5005">
-      <class name="GETAPIs.GETAPIRequestTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:GETAPIs.GETAPIRequestTest@2d2ffcb7]" started-at="2023-08-17T22:54:58 IST" name="setup" finished-at="2023-08-17T22:55:00 IST" duration-ms="2808" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="getUserAPITest()[pri:0, instance:GETAPIs.GETAPIRequestTest@2d2ffcb7]" started-at="2023-08-17T22:55:00 IST" name="getUserAPITest" finished-at="2023-08-17T22:55:03 IST" duration-ms="2146" status="PASS">
+    <test started-at="2023-08-19T22:06:38 IST" name="Default test" finished-at="2023-08-19T22:06:43 IST" duration-ms="5736">
+      <class name="GETAPIs.GETAPIRequestWithBDD">
+        <test-method signature="getUserAPITest()[pri:0, instance:GETAPIs.GETAPIRequestWithBDD@49e5f737]" started-at="2023-08-19T22:06:38 IST" name="getUserAPITest" finished-at="2023-08-19T22:06:43 IST" duration-ms="5704" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getUserAPITest -->
-      </class> <!-- GETAPIs.GETAPIRequestTest -->
+      </class> <!-- GETAPIs.GETAPIRequestWithBDD -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

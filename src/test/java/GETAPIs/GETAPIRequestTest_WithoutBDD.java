@@ -13,7 +13,7 @@ import io.restassured.http.Header;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
-public class GETAPIRequestTest {
+public class GETAPIRequestTest_WithoutBDD {
 	
 //	https://gorest.co.in/public/v2/users/
 	RequestSpecification request;
